@@ -1,2 +1,2 @@
 # RDMakeD
-RDMakeD
+"Somos una agencia de marketing digital dedicada a impulsar la visibilidad y el crecimiento de tu negocio en el mundo digital. En RDMakeD, creamos estrategias personalizadas que combinan la optimización SEO, la gestión de redes sociales y la publicidad online para asegurar que tu marca no solo sea vista, sino que destaque. Nuestra misión es transformar la presencia online de las empresas, ayudándolas a alcanzar sus objetivos de negocio a través de soluciones innovadoras y resultados medibles. fundada por Johan Mancebo tambien conocido como JohansitoDev"
